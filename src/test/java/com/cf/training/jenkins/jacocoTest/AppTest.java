@@ -12,6 +12,7 @@ public class AppTest {
 	        assertEquals("Hello mkyong", obj.getMessage("mkyong"));
 
 	    }
+	 @Test
 	public void testNameMkyong1() {
 
 	        MessageBuilder obj = new MessageBuilder();
